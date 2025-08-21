@@ -2,6 +2,15 @@
 
 This README explains the **AI-driven E2E testing pipeline** that uses **Microsoft Playwright MCP** + **OpenAI** to test the `todomvc-react` app in **Jenkins** before deployment.
 
+
+---
+
+## 🎥 Demonstration
+
+Here’s a short walkthrough of the pipeline running end-to-end:  
+👉 [Watch the YouTube Demo](https://youtu.be/xE1wEUN8rRc?si=VUak8JET5o-ZK-Lb)
+
+---
 ---
 
 ## 1) What This Project Does (Quick)
