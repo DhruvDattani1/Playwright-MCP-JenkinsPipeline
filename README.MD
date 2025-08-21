@@ -1,4 +1,4 @@
-# Playwright MCP — Jenkins Pipeline (Phase 3, Patched)
+# Playwright MCP — Jenkins Pipeline
 
 This README explains the **AI-driven E2E testing pipeline** that uses **Microsoft Playwright MCP** + **OpenAI** to test the `todomvc-react` app in **Jenkins** before deployment.
 
